@@ -1,4 +1,3 @@
-from re import L
 import pymysql, logging
 from app import app
 from db import mysql
